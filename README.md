@@ -5,6 +5,8 @@
 
 [![zeddkhan03's GitHub | Stats](https://stats.quine.sh/zeddkhan03/github?theme=light)](https://quine.sh)
 
+[![zeddkhan03's GitHub | Languages Over Time](https://stats.quine.sh/zeddkhan03/languages-over-time?theme=dark)](https://quine.sh)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khxn_z_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeddkhan03) 
