@@ -1,12 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development.<br>🌱 I’m currently learning Blockchain.<br>💬 Ask me about my interests.<br>
-
-[![zeddkhan03's Web3 | Identity](https://stats.quine.sh/zeddkhan03/web3?theme=light)](https://quine.sh)
-
-[![zeddkhan03's GitHub | Stats](https://stats.quine.sh/zeddkhan03/github?theme=light)](https://quine.sh)
-
-[![zeddkhan03's GitHub | Languages Over Time](https://stats.quine.sh/zeddkhan03/languages-over-time?theme=dark)](https://quine.sh)
-
+💬 Ask me about my interests.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khxn_z_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeddkhan03) 
@@ -20,9 +13,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zeddkhan03&icon=0&color=0)](https://visitcount.itsvg.in)
