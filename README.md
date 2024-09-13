@@ -1,5 +1,7 @@
-# 💫 About Me:
-💬 Ask me about my interests.<br>
+# 👋 Hi there! I'm Zedd Khan
+
+I’m a passionate developer with expertise in various technologies. I love working on interesting projects and exploring new tools and technologies. Feel free to ask me about my interests or any tech-related queries! 💬
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khxn_z_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeddkhan03) 
